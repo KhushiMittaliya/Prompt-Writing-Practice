@@ -2,7 +2,26 @@ README.md
 
 # 🧠 Prompt Engineering Assignment – Jupyter Notebook
 
-### 📚 Assignment 3: Prompt Writing Practice  
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KhushiMittaliya/Prompt-Writing-Practice/blob/main/Prompt_Assignment3.ipynb)
+``` |
+| 🎨 **Repo Logo or Banner** | Add a visual at the top of your repo—use a simple image or banner to make it more visually appealing. |
+| 📄 **Notebook Conclusion Cell** | Consider adding a final Markdown cell titled “## 🧾 Conclusion” summarizing your learnings from prompt engineering. |
+| 📌 **Table of Contents** | Inside the notebook, include a small TOC linking to each section—helps with navigation in long notebooks. |
+
+---
+
+### 🧠 If You’d Like Help With:
+- Inserting the **Colab badge**
+- Creating a **banner or thumbnail**
+- Drafting that **conclusion cell**
+
+…just let me know—I’d be happy to assist!
+
+Overall, you've done **excellent work**! Your repo is ready to share. 🚀
+::contentReference[oaicite:0]{index=0}
+
+
+###  Prompt Writing Practice  
 By: Khushi Mittaliya  
 Course: MCA | Subject: Artificial Intelligence  
 
