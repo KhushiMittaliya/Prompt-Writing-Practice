@@ -66,9 +66,3 @@ You can open the notebook using:
 - Google Colab  
 (Or preview directly on GitHub)
 
----
-
-## 🎯 Status: Completed
-
-This submission is complete and ready for review.
-
