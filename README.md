@@ -5,7 +5,7 @@ README.md
 
 ###  Prompt Writing Practice  
 By: Khushi Mittaliya  
-Course: MCA | Subject: Artificial Intelligence  
+Course: MCA | Subject: Artificial Intelligence & Prompt Engineering
 
 ---
 
