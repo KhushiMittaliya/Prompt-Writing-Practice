@@ -1,6 +1,6 @@
 README.md
 
-# 🧠 Prompt Engineering Assignment – Jupyter Notebook
+# 🧠 Prompt Engineering  – Jupyter Notebook
 
 
 ###  Prompt Writing Practice  
@@ -11,7 +11,7 @@ Course: MCA | Subject: Artificial Intelligence & Prompt Engineering
 
 ## 📌 Objective
 
-This assignment focuses on mastering prompt engineering techniques by experimenting with different prompt types and refining them for better outputs using ChatGPT.
+This  focuses on mastering prompt engineering techniques by experimenting with different prompt types and refining them for better outputs using ChatGPT.
 
 ---
 
